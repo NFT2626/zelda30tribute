@@ -5,7 +5,7 @@
 
 ## How to Play
 
-Although you may no longer play on [zelda30tribute.com](http://www.zelda30tribute.com), you can play it off a
+Although you may no longer play on [https://nft2626.github.io/zelda30tribute/www/index.html ](https://nft2626.github.io/zelda30tribute/www/index.html), you can play it off a
 localhost webserver or your own webserver.
 
 #### Running on your local machine.
